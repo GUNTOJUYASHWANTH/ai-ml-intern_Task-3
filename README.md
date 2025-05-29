@@ -35,6 +35,8 @@ The dataset includes features such as:
 - Used `train_test_split` from Scikit-learn
 - 80% data for training and 20% for testing
 - ![image](https://github.com/user-attachments/assets/6bc8cec2-42bd-4a6e-8d83-880bf3d35d18)
+- ![Screenshot 2025-05-29 135915](https://github.com/user-attachments/assets/1364bc05-450c-4608-af64-d6be256882bf)
+
 
 
 ### 3️⃣ Fit Linear Regression Model
